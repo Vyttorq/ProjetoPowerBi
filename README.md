@@ -30,7 +30,7 @@ Os seguintes arquivos estão disponíveis na raiz do projeto:
 
 ## 🌐 Publicação
 
-> ⚠️ **Nota**: Ainda não foi possível publicar o projeto online devido a restrições do e-mail corporativo. O site está apresentando instabilidades no momento.
+> ⚠️ **Nota**: Ainda não foi possível publicar o projeto online devido a restrições do e-mail corporativo. O site vem apresentando instabilidades.
 
 ---
 
